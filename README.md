@@ -1,4 +1,9 @@
-
+<p align="center">
+<img 
+    src="Design IA.png"
+    width="300"
+/>
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 
@@ -18,6 +23,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Canva Para gerar capas
+- Canva para gerar capas
 
 
